@@ -44,3 +44,4 @@ build/
 .terraform.tfstate.lock.info
 .terraform.lock.hcl
 *.xml
+*.idea
